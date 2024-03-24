@@ -1,0 +1,6 @@
+Row: B
+Seat: 8
+Price: 150
+Name: sachi
+Surname: piyathunga
+Email: sachipiya@gmail.com

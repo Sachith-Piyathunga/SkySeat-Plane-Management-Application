@@ -1,0 +1,6 @@
+Row: B
+Seat: 1
+Price: 200
+Name: sac
+Surname: piy
+Email: sacpiya@gmail.com
