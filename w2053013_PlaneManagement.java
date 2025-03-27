@@ -3,6 +3,7 @@
 import java.io.IOException;//add this class for handling input-output exceptions
 import java.util.InputMismatchException;//add this class to check input provided by the user does not match the expected type
 import java.util.Scanner;//add this class to be used for obtaining user input from the keyboard
+import com.github.lalyos.jfiglet.FigletFont;
 
 
 //main class for manage for seat reservation on a plane
@@ -19,11 +20,12 @@ public class w2053013_PlaneManagement
     private static final Ticket[] tickets = new Ticket[52]; //an array for store all the sold tickets during the process
     private static final Scanner scanner = new Scanner(System.in); //scanner object to get user inputs
 
-    public static void main(String[] args)  //main method to start the program
+    public static void main(String[] args) throws IOException  //main method to start the program
     {
         //display the welcome message
         System.out.println("\n" + "*".repeat(50) + "".repeat(16));
-        System.out.println("\n" + "*".repeat(5) + " Welcome to the Plane Management System " + "*".repeat(5));
+        System.out.println(" ");
+        System.out.println(FigletFont.convertOneLine("SkySeat"));
 
         int choice; //variable to store user choice
         do //loop until the user choose quit
