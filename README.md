@@ -89,3 +89,19 @@ The application simulates seat reservations for a plane. Users can:
 - Abstraction: Clear interfaces for different operations (seat, ticket, user).
 - Separation of Concerns: Logic is divided into separate, manageable classes.
 - Exception Handling: Handles input errors gracefully.
+
+---
+
+## 🗂️ Ticket Storage
+
+- Every sold ticket is saved as a text file.
+- Files are named like: A5.txt, B3.txt, etc.
+- Example contents:
+
+   ```
+   Row: A
+   Seat: 5
+   Price: 180
+   Name: John
+   Surname: Doe
+   Email: john.doe@example.com
