@@ -50,3 +50,8 @@ The application simulates seat reservations for a plane. Users can:
    ```bash
    git clone https://github.com/yourusername/plane-management-system.git
    cd plane-management-system
+
+2. Compile all Java files
+
+   ```bash
+   javac *.java
