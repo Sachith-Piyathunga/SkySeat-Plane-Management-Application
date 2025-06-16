@@ -80,3 +80,12 @@ The application simulates seat reservations for a plane. Users can:
 - Java 17+
 - Console-based UI
 - File I/O for ticket persistence
+
+---
+
+## 🧠 Object-Oriented Concepts Applied
+
+- Encapsulation: Each class manages its own data.
+- Abstraction: Clear interfaces for different operations (seat, ticket, user).
+- Separation of Concerns: Logic is divided into separate, manageable classes.
+- Exception Handling: Handles input errors gracefully.
