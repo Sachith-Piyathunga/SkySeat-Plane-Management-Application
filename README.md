@@ -14,3 +14,10 @@ The application simulates seat reservations for a plane. Users can:
 - Save ticket information to a `.txt` file
 
 ---
+
+## 🧑‍💻 Developed By
+
+- **Name:** Sachintha Chamod  
+- **ID:** w2053013
+
+---
