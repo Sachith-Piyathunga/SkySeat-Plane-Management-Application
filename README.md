@@ -72,3 +72,11 @@ The application simulates seat reservations for a plane. Users can:
 2. **Seating Plan Screen**
 
 ![image alt](https://github.com/Sachith-Piyathunga/SkySeat-Plane-Management-Application/blob/a111cd45596b1dc13c40afd9b94d4babf62c1a11/Image/Screenshot_20250616_060103.png)
+
+---
+
+## 💡 Technologies Used
+
+- Java 17+
+- Console-based UI
+- File I/O for ticket persistence
