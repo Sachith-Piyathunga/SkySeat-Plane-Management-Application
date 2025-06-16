@@ -51,7 +51,12 @@ The application simulates seat reservations for a plane. Users can:
    git clone https://github.com/yourusername/plane-management-system.git
    cd plane-management-system
 
-2. Compile all Java files
+2. **Compile all Java files**
 
    ```bash
    javac *.java
+
+3. **Run the main class**
+
+   ```bash
+   java w2053013_PlaneManagement
