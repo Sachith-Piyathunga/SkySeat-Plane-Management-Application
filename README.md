@@ -41,3 +41,12 @@ The application simulates seat reservations for a plane. Users can:
 - ├── Person.java # Class to handle passenger details
 - ├── Seat.java # Class to represent a single seat's status
 - └── Ticket.java # Class to manage ticket info, pricing, and file writing
+
+---
+
+## ✅ How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/plane-management-system.git
+   cd plane-management-system
