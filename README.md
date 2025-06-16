@@ -60,3 +60,9 @@ The application simulates seat reservations for a plane. Users can:
 
    ```bash
    java w2053013_PlaneManagement
+
+---
+
+## 📷 Sample Output
+
+![image alt](https://github.com/Sachith-Piyathunga/SkySeat-Plane-Management-Application/blob/b5967fb9b71e33d0b30a70ac05632cb8c7777774/Image/Screenshot_20250616_060036.png)
