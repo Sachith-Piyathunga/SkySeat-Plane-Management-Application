@@ -32,3 +32,12 @@ The application simulates seat reservations for a plane. Users can:
 - Robust exception handling for user input
 
 ---
+
+## 🧩 Project File Structure
+
+- PlaneManagementSystem/
+- │
+- ├── w2053013_PlaneManagement.java # Main class with UI and all menu logic
+- ├── Person.java # Class to handle passenger details
+- ├── Seat.java # Class to represent a single seat's status
+- └── Ticket.java # Class to manage ticket info, pricing, and file writing
