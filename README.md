@@ -65,10 +65,10 @@ The application simulates seat reservations for a plane. Users can:
 
 ## 📷 Sample Output
 
-**Main Screen**
+1.  **Main Screen**
 
 ![image alt](https://github.com/Sachith-Piyathunga/SkySeat-Plane-Management-Application/blob/b5967fb9b71e33d0b30a70ac05632cb8c7777774/Image/Screenshot_20250616_060036.png)
 
-**Seating Plan Screen**
+2. **Seating Plan Screen**
 
 ![image alt](https://github.com/Sachith-Piyathunga/SkySeat-Plane-Management-Application/blob/a111cd45596b1dc13c40afd9b94d4babf62c1a11/Image/Screenshot_20250616_060103.png)
