@@ -21,3 +21,14 @@ The application simulates seat reservations for a plane. Users can:
 - **ID:** w2053013
 
 ---
+
+## 🛠️ Features
+
+- Seat reservation with real-time status updates
+- Ticket cancellation and re-availability of seats
+- Ticket details storage in external `.txt` files
+- Input validation for names, email, seat numbers, and row letters
+- Pricing based on seat location
+- Robust exception handling for user input
+
+---
